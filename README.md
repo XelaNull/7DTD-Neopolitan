@@ -1,10 +1,10 @@
 # CURRENT RELEASE
 
-Neopolitan - Vanilla, with Chocolate and Strawberry : All modlets collected and combined into a single all-in-one collection modlet for easy installation:
+**Neopolitan** - Vanilla, with Chocolate and Strawberry : All modlets collected and combined into a single all-in-one collection modlet for easy installation:
 
 <https://github.com/XelaNull/7DTD-Neopolitan/blob/master/RELEASES/2021-13-02_014516-7DTD-Neopolitan.zip>
 
-Individual Modlet Collection - All modlets kept separate so that you can remove individual modlets if you like:
+**Individual Modlet Collection** - All modlets kept separate so that you can remove individual modlets if you like:
 
 <https://github.com/XelaNull/7DTD-Neopolitan/blob/master/RELEASES/2021-13-02_014434-Modlet_Collection-Shouden.zip>
 
