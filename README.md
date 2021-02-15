@@ -27,164 +27,160 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 - 60Slot_Bag_30Reserve by **ShoudenKalferas, Based on Khaine's 60BBM**
 
   - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot.git>
+  - Download URL: <https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot/trunk/60Slot_Bag_30Reserve>
   - Description: 60 Slot Bag, with 30 Slots not available initially.
 
-- Crafting Acid by **ShoudenKalferas**
-
-  - Website: <https://github.com/XelaNull/7DTD-SalvagedElectronics.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
-  - Description: Create Bottles of Acid from Acid, Mouldy Bread, and Diseased Meat
-
-- Faster Crafting by **ShoudenKalferas with originating idea from lurch840**
-
-  - Website: <https://github.com/XelaNull/7DTD-FixedModlets.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
-  - Description: Decreases craft time of most recipes by 50 percent.
-
-- Meat Rendering by **ShoudenKalferas and AeyviKalferas**
-
-  - Website: <https://github.com/XelaNull/7DTD-SalvagedElectronics.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
-  - Description: Render animal fat from diseased meat.
-
-- Quenchiest Cactus Juice by **ShoudenKalferas and AeyviKalferas**
+- Crafting Acid by **Shouden Kalferas**
 
   - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/7DTD-Acid>
+  - Description: Create Bottles of Acid from Acid, Mouldy Bread, and Diseased Meat
+
+- Meat Rendering by **Shouden Kalferas, originating idea from Aeyvi Kalferas**
+
+  - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/7DTD-MeatRendering>
+  - Description: Render animal fat from diseased meat.
+
+- Quenchiest Cactus Juice by **Shouden Kalferas, originating idea from Aeyvi Kalferas**
+
+  - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/7DTD-Quenchiest_Cactus_Juice>
   - Description: Adds ability to obtain murky water from cactuses.
 
-- Craftable Sewing Kit by **ShoudenKalferas and AeyviKalferas**
+- Craftable Sewing Kit by **Shouden Kalferas, originating idea from Aeyvi Kalferas**
 
-  - Website: <https://github.com/XelaNull/7DTD-SalvagedElectronics.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/7DTD-SewingKit>
   - Description: Adds ability to craft the sewing kit.
 
-- Steel Trussing Sheet by **ShoudenKalferas**
+- Steel Trussing Sheet by **Shouden Kalferas**
 
-  - Website: <https://github.com/XelaNull/7DTD-SalvagedElectronics.git>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/7DTD-SteelTrussingSheet>
   - Description: Adds a steel trussing sheet.
 
-- Khaine's 8-slot Crafting Queue by **KhaineGB, Modified by Shouden Kalferas**
+- 8-slot Crafting Queue by **KhaineGB, Modified by Shouden Kalferas**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://gitlab.com/KhaineGB/khaines-modlets-a19/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/8CraftQueue>
   - Description: This modlet changes the players crafting queue from 4 slots to 8 slots.
+
+- Better Goggles by **GneX, Modified by Shouden Kalferas**
+
+  - Website: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/BetterGoggles>
+  - Description: Improved Aviator Goggles, Ski Goggles and Shades
 
 - Death by Campfire by **magejosh**
 
   - Download URL: <https://gitlab.com/magejoshplays/7-days-to-die-a19-mods>
   - Description: More heatmap strength from campfires and they set you on fire for longer now
 
-- Delmod__Combiner by **Shouden with Heavy Reliance on DelStryker**
+- Delmod__Combiner by **DelStryker**
 
-  - Download URL: <https://github.com/XelaNull/7DTD-Combiner.git>
+  - Download URL: <https://github.com/DelStryker/Delmod/trunk/Delmod_Combiner>
   - Description: Adds the Combiner capability to the Workbench and the Vehicles
 
 - Return of the Jail Door by **DelStryker**
 
-  - Download URL: <https://github.com/DelStryker/Delmod.git>
+  - Download URL: <https://github.com/DelStryker/Delmod/trunk/Delmod_Jail_Door>
   - Description: Jail door
 
 - Delmod_Stack_Sizes by **DelStryker**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://github.com/DelStryker/Delmod>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Delmod_Stack_Sizes>
   - Description: Changes some item stack sizes
 
 - Doughs Buff Ambience Darker Inside by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Doughs-Buff-Ambiance-DarkerInside>
   - Description: Modifications and additions to make it the darkest indoors
 
 - Doughs Buff Ambience DarkerNights by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Doughs-Buff-Ambiance-DarkerNights>
   - Description: Modifications and additions to make it the darkest at night
 
 - Doughs Buff Infection by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-Buff-Infection>
   - Description: Makes infections more deadly
 
 - Doughs Buff Pipe Bombs by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-Buff-PipeBombs>
   - Description: Modifications and additions to pipe bomb related items
 
 - Doughs - Food - Sous Chef Of The Apocalypse by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-Food-SousChefOfTheApocalypse>
   - Description: Additional fancy food and recipes
 
 - Doughs Nerf Flashlights and Lanterns by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-Nerf-FlashlightsAndLanterns>
   - Description: Makes flashlights and placeable lanters very hard to craft/obtain
 
 - Doughs Punishing Weather Core by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-PunishingWeather-Core>
   - Description: Makes the weather more challenging to deal with
 
-- Doughs Punishing Weather Effects Medium by **Doughphunghus**
+- Doughs Punishing Weather Effects Light by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-PunishingWeather-Effects-Light>
   - Description: Lessens particle effects from Doughs-PunishingWeather-Core to help with FPS
 
 - Doughs UI Add 5 Recipe Ingredients by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-UIAddFiveRecipeIngredients>
   - Description: Adds 5 more visible ingredient slots for recipes
 
 - Doughs You've Got Mail by **Doughphunghus**
 
   - Website: <https://github.com/doughphunghus>
-  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19>
+  - Download URL: <https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/trunk/Doughs-YouveGotMail>
   - Description: Adds interesting postal mail with fun semi useful items.
 
 - DrPrepper by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/DrPrepper>
   - Description: This modlet adds the Dr. Prepper drink to slightly increase run speed and carry capacity. It can be found in vending machines and beverage loot
 
 - EmperorDye by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/EmperorDye>
   - Description: This modlet adds a 'Emperor Dye' that essentially removes the UMA mesh of whatever armor piece its put into
-
-- Faster_Bellows by **ShoudenKalferas**
-
-  - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot.git>
-  - Description: Increase smelting with bellows 5x
 
 - Armor With Mods by **Okami**
 
-  - Download URL: <https://github.com/Okamich/FallOFBabylon-A19>
+  - Download URL: <https://github.com/Okamich/FallOFBabylon-A19/trunk/FoB_ArmorWithMods>
   - Description: Traders can sale armor with installed mods!
 
 - Traders by **Okami**
 
-  - Download URL: <https://github.com/Okamich/FallOFBabylon-A19>
+  - Download URL: <https://github.com/Okamich/FallOFBabylon-A19/trunk/Fob_Traders>
   - Description: Traders trade weapons with mods
 
 - Frobscottle by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/Frobscottle>
   - Description: This modlet adds the Frobscottle drink to increase jump height and make fun farty noises
 
 - GhillieSuitAsMods by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/GhillieSuitAsMods>
   - Description: This modlet changes the Ghillie Suit clothing pieces into mods for head/jacket/pants. It also removes the original items and recipes so you can't put a ghillie mod in a ghillie suit
 
 - Guppycur's Random ZombieGetterUpper by **Guppycur**
@@ -207,19 +203,26 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 - Headshot_15 by **ShoudenKalferas, Based on TSBX 25 Percent Headshot**
 
   - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot.git>
+  - Download URL: <https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot/trunk/Headshot_15>
   - Description: 15% Inrease Headshot Damage.
 
-- Home_Depot by **OrbitalBliss, Fixed by ShoudenKalferas**
+- Home_Depot by **OrbitalBliss, Fixed by Shouden Kalferas**
 
   - Website: <https://github.com/OrbitalBliss/HOME_DEPOT_7D2D_MOD>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Home_Depot>
   - Description: Adds a bunch of miscellaneous items, mostly decorative, to the Traders. Adds a few contruction recipes, mostly tablesaw. Moves or Adds a couple Recipes to Perks.
 
 - IceBurg_Baby_Animals by **IceBurg, Modified by Shouden Kalferas**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://7daystodiemods.com/baby-animals/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/IceBurg_Baby_Animals_1_6>
   - Description: Add baby animals to the game for Alpha 19
+
+- IceBurg_Craft_Windows by **IceBurg**
+
+  - Website: <https://7daystodiemods.com/craft-door-trim-window-trim-shutters-mini-blinds-curtains-crown-moulding/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/IceBurg_Craft_Windows_1_0>
+  - Description: Adds recipes to be able to craft all the different Vanilla windows
 
 - JaxTeller718_BiggerWanderingHordes by **JaxTeller718**
 
@@ -245,14 +248,10 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://github.com/JaxTeller718/A19ModletsJax/trunk/JaxTeller718_ZombieSightRange>
   - Description: Increases the range that zombies can see and sense you.
 
-- Khaine's 3-slot Forge Input by **KhaineGB**
+- Khaine's HP Bar Mod by **KhaineGB**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
-  - Description: This modlet changes the forge to 3 slots.
-
-- Khaine's HO Bar Mod by **KhaineGB**
-
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://gitlab.com/KhaineGB/khaines-modlets-a19/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/KHA19-HPBars>
   - Description: This modlet adds the HP bar back into the game.
 
 - Zombie Stutter Stop Modlet by **Khaine**
@@ -262,35 +261,30 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 
 - Khelldon - Bigger Buck and Doe by **Khelldon**
 
-  - Download URL: <https://github.com/doughphunghus/7d2dModlets>
+  - Download URL: <https://github.com/doughphunghus/7d2dModlets/trunk/Khelldon-BiggerBuckAndDoe>
   - Description: Makes the Buck and Doe bigger
 
 - MeanCloud's Increased Animals by **Mean.Cloud, Doughphungus, Modified by Shouden Kalferas**
 
   - Website: <http://mean.cloud/>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/MeanCloud_IncreasedAnimals>
   - Description: Returns some of the huntable animals to the world since they don't spawn too often anymore.
-
-- Mutations by **stample, stamplesmods@gmail.com**
-
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
-  - Description: This modlet adds powerful mutation perks for characters with 10 in any attribute. A19 compatible.
 
 - NakedGator by **stample**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/NakedGator>
   - Description: This modlet adds the Naked Gator drink to the game. It can be crafted using Mega Crush.
 
 - Pickup_Plants_A19 by **ShoudenKalferas**
 
-  - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git>
+  - Website: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git>
+  - Download URL: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader/trunk/Pickup_Plants_A19>
   - Description: Allows press E to pickup all plants. Based on Ragsy2145's Pickup_Plants Modlet
 
 - Ragsy_Brighter_Vehicle_Headlights_V2 by **Ragsy2145, Modified by Shouden Kalferas**
 
   - Website: <https://7daystodie.com/forums/showthread.php?106453-Ragsy2145-Modlets>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Ragsy_Brighter_Headlights_V2>
   - Description: Support added for Custom Vehicles by Manux and Guppycur
 
 - Riles-DecoBlock by **Riles**
@@ -351,49 +345,47 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 
 - Some_Skillbook_Skillpoints by **ShoudenKalferas**
 
-  - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Skillbook_Skillpoints>
+  - Website: <https://github.com/XelaNull/7DTD-Skillbook_Skillpoints.git>
+  - Download URL: <https://github.com/XelaNull/7DTD-Skillbook_Skillpoints/trunk/Some_Skillbooks_Skillpoints>
   - Description: Give a skillpoint after reading all, some, or most skill books.
 
 - STAINLESS STEEL RETURNS by **Claymore, Fixed By ShoudenKalferas**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://7daystodiemods.com/stainless-steel-returns-for-a18/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Stainless_Steel_Returns>
   - Description: Adds back steel polish and polished steel. You have to find a recipe, or learn it via perk. Modified the explosion resistance. You can now find polish in various containers, but rare!
 
 - StamplesDefenseQuests by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/StamplesDefenseQuests>
   - Description: Defense Quests creates a couple quests that send waves of zeds at you while you defend random T1 and T2 locations. Special thanks to geengaween for providing the ideas that led to this.
 
 - StamplesNotJustLumberjacks by **stample, stamplesmods@gmail.com**
 
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
+  - Download URL: <https://github.com/stamplesmods/7d2dmodlets/trunk/StamplesNotJustLumberjacks>
   - Description: Add some other zombies into ZombieSnow group so wanderers in Snow are 100% lumberjacks
-
-- StamplesScreamerBanshee by **stample**
-
-  - Download URL: <https://github.com/stamplesmods/7d2dmodlets>
-  - Description: This modlet adds a screamer Banshee zombie, and puts it in the Scout group
 
 - Foods That use Super Corn by **Gopher, Fixed By ShoudenKalferas**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/SuperCornCookedFoods>
   - Description: Adds different foods that use Super Corn.
 
 - Terrain Based Movemeent Speed by **Elucidus**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://community.7daystodie.com/topic/8204-terrain-based-movement-speed/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Terrain_Based_Movement_Speed>
   - Description: This changes how fast you walk/run based on the terrain you are standing on. It ranges from +35% on asphalt, to -25% on ice. *warning the zombies get the same changes.
 
 - Trader_Refresh_1Day by **ShoudenKalferas**
 
-  - Website: <https://github.com/XelaNull/7dtd-Modlets.git>
-  - Download URL: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git>
+  - Website: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader.git>
+  - Download URL: <https://github.com/XelaNull/7DTD-Magazine_Plants_Trader/trunk/Trader_Refresh_1Day>
   - Description: Set all traders to refresh each day
 
 - Vanilla Expanded - Storage by **TSBX**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://7daystodiemods.com/vanilla-expanded-storage/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Vanilla_Expanded_Storage>
   - Description: Adds new immersive storage options.
 
 - White River Tools of Citizenship by **Loosely derived from Royal Deluxe Vanilla+ Quests Modlet by ShoudenKalferas**
@@ -461,6 +453,12 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Website: <https://7daystodie.com/forums/showthread.php?111233-White-River-Tools-Of-Citizenship>
   - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
   - Description: The settlement needs bone knives for their carcass carving class. Craft tons of bone knives in exchange for a named Hunting Knife.
+
+- White River Tools of Citizenship - Dwarven Forge by **Shouden Kalferas, with code from Khaine's 3-Slot Forge**
+
+  - Website: <https://7daystodie.com/forums/showthread.php?111233-White-River-Tools-Of-Citizenship>
+  - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
+  - Description: A faster smelting bellows inspired from the blacksmith experts from the Lord of the Rings.
 
 - White River Tools of Citizenship - Everdeen's Arrows by **Loosely derived from Royal Deluxe Vanilla+ Quests Modlet by ShoudenKalferas**
 
@@ -531,12 +529,12 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 - Xal_SetZombiesAttackAnimals by **Xaliber, Fixed By ShoudenKalferas**
 
   - Website: <https://7daystodie.com/forums/showthread.php?136821-Zombies-Hunt-Too-Allow-Zombies-to-Attack-Animals>
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/Xal_SetZombiesAttackAnimals>
   - Description: Allow zombies and zombie dogs to attack passive animals.
 
 - ZLoot_Increase by **ShoudenKalferas, Based on Donovan's Longer Loot Bags and Mega Loot Bags**
 
-  - Website: git@github.com:XelaNull/7DTD-ZombieLootbag_Increase.git
+  - Website: <https://github.com/XelaNull/7DTD-ZombieLootbag_Increase>
   - Download URL: <https://github.com/XelaNull/7DTD-ZombieLootbag_Increase.git>
   - Description: Increase chance for Zombies to drop a loot bag, and keep it from disappearing for 15 minutes.
 
@@ -544,36 +542,36 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 
   - Website: <https://github.com/XelaNull/7DTD-Zombiepedia_Skillpoints.git>
   - Download URL: <https://github.com/XelaNull/7DTD-Zombiepedia_Skillpoints.git>
-  - Description: Place encyclopedia books as random drops that give real tips and tricks, in exchange for two skillpoints.
+  - Description: Place encyclopedia books as random drops that give real tips and tricks, in exchange for one skillpoint for each book read.
 
 - Donovan_BetterBridges by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-betterbridges>
   - Description: Allows advanced rotation on garage door and drawbridge
 
 - Donovan_BetterBuffs by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-betterbuffs>
   - Description: Tweaks some of the (de)buff settings. Notably, NearTrauma now only lasts 10 minutes and hunger and thirsty are now more realistic.
 
 - Donovan_BetterDyes by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-betterdyes>
   - Description: Craft dyes using paint
 
 - Donovan_CraftSpikes by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-craftspikes>
   - Description: Adds the A16 Log Spikes back in as craftable items
 
 - Donovan_LootCleanup by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-lootcleanup>
   - Description: Destroys certain containers after looting them, cleaning up the environment
 
 - Donovan_PickMeUp by **Donovan**
 
-  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets.git>
+  - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/trunk/donovan-pickmeup>
   - Description: Allows spike blocks to be picked up
 
 - more recieps by **wolfbain5**
@@ -594,7 +592,8 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
 
 - Grenade Arrows by **wtk34, Modified by Shouden Kalferas**
 
-  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets.git>
+  - Website: <https://7daystodiemods.com/wtk34mods-grenade-arrow/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/trunk/zWTK34-Grenade_Arrows>
   - Description: This little modlet adds a grenade tipped arrow to the game.
 
 ## CREDITS
