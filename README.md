@@ -76,14 +76,15 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
   - Description: Improved Aviator Goggles, Ski Goggles and Shades
 
-- Death by Campfire by **magejosh**
+- Death by Campfire by **magejosh, Tuned by Shouden Kalferas**
 
-  - Download URL: <https://gitlab.com/magejoshplays/7-days-to-die-a19-mods>
-  - Description: More heatmap strength from campfires and they set you on fire for longer now
+  - Website: <https://gitlab.com/magejoshplays/7-days-to-die-a19-mods>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
+  - Description: Campfires now set you on fire for longer now
 
-- Delmod__Combiner by **DelStryker**
+- Delmod_Combiner by **DelStryker, Fixed by Shouden Kalferas**
 
-  - Download URL: <https://github.com/DelStryker/Delmod/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
   - Description: Adds the Combiner capability to the Workbench and the Vehicles
 
 - Return of the Jail Door by **DelStryker**
@@ -192,16 +193,16 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Random_ZombieGetterUpper>
   - Description: Got the timing down pat for their get up speed? Well, let's fix that!
 
-- H7SB Seats by **Eihwaz**
+- H7SB Seats by **Eihwaz, Modified by Shouden Kalferas**
 
   - Website: www.eihwaz.de
-  - Download URL: <https://gitlab.com/EihwazDE/7D2D>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
   - Description: Contains vanillafriendly chairs and sofas to sit on.
 
-- H7SB Storage by **Eihwaz**
+- H7SB Storage by **Eihwaz, Modified by Shouden Kalferas**
 
   - Website: www.eihwaz.de
-  - Download URL: <https://gitlab.com/EihwazDE/7D2D>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
   - Description: Contains vanillafriendly pushable carts and new storages/changed storage sizes.
 
 - Headshot_15 by **Shouden Kalferas, Based on TSBX 25 Percent Headshot**
@@ -240,6 +241,12 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://github.com/JaxTeller718/JaxModletsA182B5/>
   - Description: Adds Eggs to Fridges.
 
+- JaxTeller718_IncreasedBiomeZombiesx2 by **JaxTeller718**
+
+  - Website: <https://ravenhearst.enjin.com/>
+  - Download URL: <https://github.com/JaxTeller718/A19ModletsJax/>
+  - Description: All settings related to zombies.
+
 - JaxTeller718_SlowerProgression by **JaxTeller718**
 
   - Website: <https://ravenhearst.enjin.com/>
@@ -273,6 +280,11 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Website: <http://mean.cloud/>
   - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
   - Description: Returns some of the huntable animals to the world since they don't spawn too often anymore.
+
+- MorePaintTextures by **Eric Beaudoin**
+
+  - Download URL: <https://github.com/Laotseu/7dtdMods/>
+  - Description: Add more textures to the paint tool.
 
 - NakedGator by **stample**
 
@@ -471,6 +483,12 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
   - Description: Gather food to help feed the settlement and in exchange they'll offer you premium named arrows or bolts.
 
+- Oak's Farm Jeep by **Oakraven, Dayhawk, (Dre/arramus supported QC/Localisation), Quested by Shouden Kalferas**
+
+  - Website: <https://community.7daystodie.com/topic/22947-oaks-pet-animals-guards-and-farm-jeep/>
+  - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
+  - Description: This modlet adds a Farm Jeep.
+
 - White River Tools of Citizenship - Gupta's First Aid Bandages by **Shouden Kalferas, Loosely derived from Royal Deluxe Vanilla+ Quests Modlet**
 
   - Website: <https://community.7daystodie.com/topic/12269-white-river-tools-of-citizenship-quests-a192/>
@@ -494,6 +512,12 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Website: <https://community.7daystodie.com/topic/12269-white-river-tools-of-citizenship-quests-a192/>
   - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
   - Description: Gather tons of pistols to help equip the settlement, then repair the degredaded weapon to ultimately obtain a premium named SMG.
+
+- White River Tools of Citizenship - Molino Bulletproof Glass by **arramus, with full credit to those who laid template foundations (Requested by Fuzzy Pug)**
+
+  - Website: <http://7daystodie.com>
+  - Download URL: <https://github.com/XelaNull/7DTD-WhiteRiver_ToC.git>
+  - Description: Bring a supply of Bulletproof glass to the trader to receive a Clear Bulletproof Glass recipe or assets.
 
 - White River Tools of Citizenship - Pavlichenko's Rifle by **Shouden Kalferas, Loosely derived from Royal Deluxe Vanilla+ Quests Modlet**
 
@@ -579,21 +603,16 @@ These modlets are selected for their Quality of Life (QoL) improvements over van
   - Download URL: <https://github.com/Donovan522/donovan-7d2d-modlets/>
   - Description: Allows spike blocks to be picked up
 
-- more recieps by **wolfbain5**
+- Weapon Repair Mod by **Survager**
 
-  - Download URL: <https://github.com/wolfbain5/7dtd-a19/raw/master/more%20recipes.rar>
-  - Description: adds some more recipes to the game
+  - Website: <https://7daystodiemods.com/weapons-repair-mod/>
+  - Download URL: <https://github.com/XelaNull/7dtd-FixedModlets/>
+  - Description: Require parts of weapons in order to repair them.
 
 - wtk34_water_filter by **wtk34**
 
   - Download URL: <https://github.com/wtk34Mods/wtk34_water_filter>
   - Description: A simple water filter for the game.
-
-- zStorage (Big) by **Eihwaz**
-
-  - Website: www.eihwaz.de
-  - Download URL: <https://gitlab.com/EihwazDE/7D2D>
-  - Description: Raise the size of all `H7SB Storage´ storages.
 
 - Grenade Arrows by **wtk34, Modified by Shouden Kalferas**
 
